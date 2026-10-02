@@ -1,0 +1,8 @@
+httpx
+aiohttp
+requests
+google-play-scraper
+pycryptodome
+protobuf==6.30.0
+protobuf-decoder
+PyJWT==2.9.0
